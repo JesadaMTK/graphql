@@ -2,9 +2,9 @@
 
 This project was created to try out the GraphQL, MongoDB, NodeJS with APollo GraphQL Server.
 
-Based on: apollo-tutorial-kit
-Blog: https://dev-blog.apollodata.com/tutorial-building-a-graphql-server-cddaa023c035
-Source: https://github.com/apollographql/apollo-tutorial-kit/tree/server-tutorial-solution
+Refer
+- Blog: https://dev-blog.apollodata.com/tutorial-building-a-graphql-server-cddaa023c035
+- Source: https://github.com/apollographql/apollo-tutorial-kit/tree/server-tutorial-solution
 
 ## Getting started
 
